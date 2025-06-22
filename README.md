@@ -1,4 +1,7 @@
 # NUS Datathon 2025
+![Project Type](https://img.shields.io/badge/project--type-Machine--Learning-yellowgreen)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Python](https://img.shields.io/badge/python-v3.13-blue?logo=python&logoColor=white)
 
 An annual Data Hackathon organised by National University of Singapore's Statistics and Data Science society.
 
